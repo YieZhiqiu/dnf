@@ -1,1 +1,345 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DNF</title>
+
+    <link rel="stylesheet" href="dnf.css">
+</head>
+<body>
+<div id="header">
+    <div class="logo">
+        <h2>地下城与勇士</h2>
+        <!-- <img src="img/logo02.pdf" width="50px" height="50px" alt="">-->
+    </div>
+    <div class="box">
+        <ul class="navbar0">
+            <li>
+                <a href="#contact"> CONTACT US</a>
+            </li>
+            <li>
+                <a href="#team">OUR AMAZING TEAM</a>
+            </li>
+            <li>
+                <a href="#about">ABOUT</a>
+            </li>
+            <li>
+                <a href="#content2"> MAP</a>
+            </li>
+            <li>
+                <a href="#content1">PROFEESSION</a>
+            </li>
+        </ul>
+    </div>
+    <div class="fighting clearfix lagout">
+        <h3>WELCOME TO DNF</h3>
+        <h1>IT'S Fighting</h1>
+    </div>
+    <div class="button clearfix lagout">
+        <a href="">TELL ME MORE</a>
+    </div>
+</div>
+
+<div id="content1">
+    <div class="profession">
+        <h2>PROFEESSION</h2>
+        <ul class="main">
+            <li class="picture clearfix">
+                <img src="http://dnf.qq.com/web200805/book/images/portrait/gjs_wallpaper.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>鬼剑士</h3>
+                    <p>因为他们扭曲的左臂。用这只黑色扭曲的鬼手来持刀或盾牌有很多不便。加上他们的左手手臂上还要缠绕着压制鬼神所用的铁链，所以他们选择的战斗方式也许是很自然的。</p>
+                </div>
+            </li>
+            <li class="picture clearfix">
+                <img src="http://img.kuai8.com/attaches/news/image/20160321/201603211325387663.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>格斗家</h3>
+                    <p>他们为了增强踢打力量穿上沉重的靴子，为了保护双手戴上手套或护手。
+                        他不以身体抵挡对方的攻击为主，而是以迅速的躲避为主，所以很少穿沉重的护甲。</p>
+                </div>
+            </li>
+            <li class="picture clearfix">
+                <img src="http://img.kuai8.com/attaches/news/image/20160321/201603211325358583.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>神枪手</h3>
+                    <p>天界人没有被魔法影响，慢慢理解了元素、金属加工、化学动力等现象。金属与火药技术的发达使他们创造出了枪，从那以后大部分战争都变成了以枪做为主要武器的远距离战。</p>
+                </div>
+            </li>
+            <li class="picture clearfix">
+                <img src="http://img.kuai8.com/attaches/news/image/20160321/201603211325285199.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>魔法师</h3>
+                    <p> 她们拥有俏丽可爱的外形，无需学习便可以掌握初级的魔法，能远程攻击大范围的敌人。魔法师的体力和防御力较弱，但她们掌握的多种魔法技能弥补了她们的缺陷。</p>
+                </div>
+            </li>
+            <li class="picture clearfix">
+                <img src="http://img.kuai8.com/attaches/news/image/20160321/201603211323088411.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>圣职者</h3>
+                    <p>圣骑士们始终扮演着守护者的身份，他们无私的奉献着自己的圣光之力，挽救了无数的生命。只要一提及他们的名号，冒险者们都会肃然起敬。</p>
+                </div>
+            </li>
+            <li class="picture clearfix">
+                <img src="http://img.kuai8.com/attaches/news/image/20160321/201603211325374482.jpg" height="200" width="330" alt="">
+                <div class="detail text-center">
+                    <h3>暗夜使者</h3>
+                    <p>暗精灵为了隐藏维纳斯带给他们的诅咒烙印，世世代代都隐居在地下洞穴里。诅咒夺走精灵独有的神圣气息的同时，也赋予他们敏捷的身手和出色的夜视能力。</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="content2">
+    <div class="ct">
+        <div class="moments-title">
+            <h2>MAP</h2>
+            <P>副本简介</P>
+        </div>
+        <ul class="main1">
+            <li>
+                <a href="#moments">
+                    <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=577728018,212998767&fm=27&gp=0.jpg" width="350" height="250" alt="图片">
+                    <span class="cover">
+                <i class="iconfont">&#xe6df;</i>
+              </span>
+                </a>
+                <h3>异界</h3>
+                <p>可以获得强化技能的装备</p>
+            </li>
+            <li>
+                <a href="#moments">
+                    <img src="http://img1.gamedog.cn/2017/09/23/1565819-1F9231430200-50.jpg" width="350" height="250" alt="图片">
+                    <span class="cover">
+                <i class="iconfont">&#xe6df;</i>
+              </span>
+                </a>
+                <h3>艾肯</h3>
+                <p>可以获得仅次于史诗的装备</p>
+            </li>
+            <li>
+                <a href="#moments">
+                    <img src="http://ol03.tgbusdata.cn/v2/thumb/jpg/OUVERCw3MjAsMTAwLDQsMywxLC0xLDAscms1MA==/u/dnf.tgbus.com/UploadFiles/201505/20150520164405875.jpg" width="350" height="250" alt="图片">
+                    <span class="cover">
+                <i class="iconfont">&#xe6df;</i>
+              </span>
+                </a>
+                <h3>远古</h3>
+                <p>可以获得传说装备</p>
+            </li>
+            <li>
+                <a href="#moments">
+                    <img src="https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=194057342,3447791948&fm=58" width="350" height="250" alt="图片">
+                    <span class="cover">
+                <i class="iconfont">&#xe6df;</i>
+              </span>
+                </a>
+                <h3>安图恩</h3>
+                <p>可以获得荒古装备</p>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+<div id="about">
+    <div class="ct">
+        <div class="about-title">
+            <h2>ABOUT</h2>
+            <p>游戏主要历史</p>
+        </div>
+        <div class="about-list-wrap">
+            <ul class="about-list">
+                <li>
+                    <div class="about-brief-left">
+                        <h2>第一章</h2>
+                        <p>出发向着新的希望<br>
+                            2008年是属于DNF的，DNF创下了一个奇迹：最早达到100万人在线的游戏。
+                            之前的三款“百万级”在线的网游达到一百万玩家在线所花时间：梦幻西游花了20个月，魔兽世界花了36个月，征途则使用了13个月。但是！DNF只花了6个月就达到了100万！ </p>
+                    </div>
+                    <div class="about-list-image">
+                        <img src="http://pic3.duowan.com/df/1105/170551864600/170552031310.jpg
+" alt="图片">
+                    </div>
+                </li>
+                <li>
+                    <div class="about-brief-right">
+                        <h2>第二章</h2>
+                        <p> 死神的挑衅<br>主要更新内容有狂战士觉醒(狱血魔神），战斗法师觉醒（贝亚娜斗神），格斗家技能改版，增加工会系统开放了迷惘之塔和暗影迷宫、天空之城改版、深渊模式推出等。 这一章虽然改变的地方很多，同时玩家数量的提高也开始了国服延续至今的痛—掉线。 </p>
+                    </div>
+                    <div class="about-list-image">
+                        <img src="http://pic2.duowan.com/df/1105/170551864600/170552031313.jpg" alt="图片">
+                    </div>
+                </li>
+                <li>
+                    <div  class="about-brief-left">
+                        <h2>第三章</h2>
+                        <p>异界的赋予<br>跨区PK场登场，削弱了APC攻击力，优化了公会系统。 可以说，这个版本让DNF彻底的改头换面。在游戏性和操作性上，已经直逼HF。
+                            掉线情况有了修改。跨区PK场的开放让尚武之风直卷全国同时也给不同区的玩家有了一个更加好的交流切磋平台，附魔师的推出让装备的可塑性进一步提升。  </p>
+                    </div>
+                    <div class="about-list-image">
+                        <img src="http://pic1.duowan.com/df/1105/170551864600/170552031319.jpg" alt="图片">
+                    </div>
+                </li>
+                <li>
+                    <div  class="about-brief-right">
+                        <h2>第四章</h2>
+                        <p>无尽的挑战<br>2009年11月18日，第四章登场，新增内容并不多：元素觉醒，死亡之塔，新增暗黑城和诺斯玛尔深渊，还有物品锁定功能。 新的深渊，死亡之塔，对阿拉德大陆广大勇士来说又是一个考验。 随着深渊副本等级的提高，封装，紫装掉落的概率增高。</p>
+                    </div>
+                    <div class="about-list-image">
+                        <img src="http://pic4.duowan.com/df/1105/170551864600/170552031315.jpg" alt="图片">
+                    </div>
+                </li>
+                <li>
+                    <div  class="about-brief-left">
+                        <h2>第五章</h2>
+                        <p>进化之光<br>史将在这一刻被铭记，2010年1月12日,多少人的坚持与等待，第五章进化之光终于隆重登场了！
+                            全心的游戏界面，无论是角色选择、游戏开场动画、PK场红蓝条，全部焕然一新。更方便，更容易上手的任务系统。 玩家等长了脖子的双排技能栏。这一刻，国服的DNF重生了！
+                            主要改版内容：神枪手和圣职者的大幅度改版，各种新技能更是神兵天降。神枪手和圣职者瞬间成为了PK场上逆天的存在。 </p>
+                    </div>
+                    <div class="about-list-image">
+                        <img src="http://pic4.duowan.com/df/1105/170699557481/170699596990.jpg" alt="图片">
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="team">
+    <div class="ct">
+        <div class="team-title">
+            <h2>OUR AMAZING TEAM</h2>
+            <P>我们的创作团队</P>
+            <ul class="team-list">
+                <li>
+                    <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1800126292,3401248290&fm=27&gp=0.jpg
+" alt="团队">
+                    <h3>Kay Garland</h3>
+                    <p>Lead Designer</p>
+                    <ul class="team-iconfont">
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe736;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe606;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe631;</i>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=223915904,696341955&fm=27&gp=0.jpg" alt="团队">
+                    <h3>Larry Parker</h3>
+                    <p>Lead Marketer</p>
+                    <ul class="team-iconfont">
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe736;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe606;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe631;</i>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4134091901,1904115851&fm=27&gp=0.jpg" alt="团队">
+                    <h3>Diana Pertersen</h3>
+                    <p>Lead Developer</p>
+                    <ul class="team-iconfont">
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe736;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe606;</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#team">
+                                <i class="iconfont">&#xe631;</i>
+                            </a>
+                        </li>
+                    </ul>
+                    <div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div id="contact">
+    <div class="ct">
+        <div class="contact-title">
+            <h2>CONTACT US</h2>
+            <p>For Call Of Duty</p>
+        </div>
+        <div class="contact-form-short">
+            <input class="form-short" type="text" placeholder="YOUR NAME *" name="name">
+            <input class="form-short" type="text" placeholder="YOUR EMAIL *" name="email">
+            <input class="form-short" type="text" placeholder="YOUR PHONE *" name="phone">
+        </div>
+        <div class="contact-form-textarea">
+            <textarea name="message" id="message" placeholder="YOUR MESSAGE *"></textarea>
+        </div>
+        <div class="contact-button">
+            <a href="#contact">SEND MESSAGE</a>
+        </div>
+    </div>
+</div>
+<div id="footer">
+    <div class="ct">
+        <ul class="footers">
+            <li>
+                <h5>Copyright © Your Website 2017</h5>
+            </li>
+            <li>
+                <ul>
+                    <li>
+                        <a class="footers-icon" href="#footer">
+                            <i class="iconfont">&#xe736;</i>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="footers-icon" href="#footer">
+                            <i class="iconfont">&#xe606;</i>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="footers-icon" href="#footer">
+                            <i class="iconfont">&#xe631;</i>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="privacy" href="#footer">Privacy Policy</a>
+                <span>/</span>
+                <a class="privacy" href="#footer">Terms of Use</a>
+            </li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
